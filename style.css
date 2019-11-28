@@ -1,0 +1,18 @@
+.body{
+  margin:0px;
+  padding:0px;
+}
+.mynav{
+  background-color:rgba(0,0,0,0.4) !important;
+  color:white;
+}
+.container{
+  margin:auto;
+  height:80%;
+}
+.main{
+  background-image: url('../images/1.jpg');
+  height: 60vh;
+  background-size: cover;
+  position:relative;
+}
